@@ -30,15 +30,17 @@ For each card type, Females tend to exhibit higher spending levels in comparison
 
 Total spending is seen to be concentrated in Delhi, Bengaluru, Greater Mumbai, and Ahmedabad. These cities are economic and financial hubs with high populations, greater disposable incomes, and better access to digital payment infrastructure and technologies, which contribute to higher spending levels. Affluent residents, more businesses, and increased credit access also drive spending in these areas. In terms of card usage, Greater Mumbai leads in usage of Gold cards for transactions (due to its wealthy population), Bengaluru leads in the usage of Silver and Signature cards, while Ahmedabad shows a preference for Platinum cards. Overall gender-based spending patterns show that women are the dominant spenders in most cities, except Kolkata, where men lead. This anomaly in Kolkata warrants further exploration to understand the factors driving this divergence.
 
-**4. Total spending by expense type in the top 10 cities**
+**4. Expense-Specific Spending by Card Type In The Top 10 cities**
+![image](https://github.com/user-attachments/assets/82b86891-ec85-4ade-8da6-1cfabb2e0f68)
+
+Silver cards tend to dominate every expense type except Travel where the Gold card dominates. Silver Cards' dominance in most expense types is because they tend to cater to a broader audience and are more commonly used for routine expenses like groceries, food and bills. Gold Cards on the other hand are dominant in Travel spending due to the fact that they often come with perks tailored to travelers, such as airline miles, lounge access, travel insurance and higher reward points for travel-related purchases like flights, hotels, likely making them the preferred choice for travel expenses. 
+
+**5. Total spending by expense type in the top 10 cities**
 ![image](https://github.com/user-attachments/assets/3ce92d6d-d1f8-4705-b019-918e7e6c117c)
 
 In most of the top 10 cities, Bills dominate as the primary expense type, followed closely by Grocery, which is also a leading category in several cities. This indicates that these two expense types are both popular and essential. However, Kolkata stands out with Entertainment as its most dominant expense type, deviating from the broader trend. This suggests location-specific spending habits that differ significantly from the other cities. The larger rectangles for essential categories, such as Bills and Grocery, highlight a focus on necessities, while larger areas for discretionary categories, such as Entertainment, could reflect higher disposable income or distinct lifestyle trends in those cities. Given Kolkata's divergence both in gender spending patterns and its preference for Entertainment as the leading expense type, further investigation into spending habits in this city could provide valuable insights into its unique behavioral trends.
 
-**5. Expense-Specific Spending by Card Type In The Top 10 cities**
-![image](https://github.com/user-attachments/assets/82b86891-ec85-4ade-8da6-1cfabb2e0f68)
 
-Silver cards tend to dominate every expense type except Travel where the Gold card dominates. Silver Cards' dominance in most expense types is because they tend to cater to a broader audience and are more commonly used for routine expenses like groceries, food and bills. Gold Cards on the other hand are dominant in Travel spending due to the fact that they often come with perks tailored to travelers, such as airline miles, lounge access, travel insurance and higher reward points for travel-related purchases like flights, hotels, likely making them the preferred choice for travel expenses. 
 
 **6. Why does Kolkata follow a contrary trend when it comes to total spending on expense types and gender spending patterns?**
   
