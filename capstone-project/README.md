@@ -65,6 +65,11 @@ The line graph of shows peaks in January, April, August, and October. January ma
 The monthly spending trends in Mumbai show peaks in February, March, August, October, and December (with December 2014 being the highest). Peaks align with major events like the wedding season (February), fiscal year-end (March), and cultural festivities such as Ganesh Chaturthi (August), Diwali (October), and holiday shopping (December). Spending dips in January, April, July, and November reflect post-celebration recovery and fiscal year beginnings. Mumbai and Kolkata exhibit similar spending patterns, with peaks tied to festivals and troughs tied to recovery periods, despite differing total spending levels. This highlights the cultural calendar's significant influence on consumer behavior in both cities.
 
 ## Conclusion
-The analysis of credit card spending in India reveals trends shaped by cultural, seasonal, and economic factors. Silver cards dominate routine expenses, while Gold cards are least preferred. Spending peaks align with festivals reflecting the influence of India's cultural calendar on spending. These insights can help tailor credit card rewards to align with specific spending behaviors. Adding demographic data on age groups related to the spending would help understand spending habits better.
+The analysis of credit card spending in India reveals trends shaped by cultural and  seasonal factors. Silver cards dominate routine expenses, while Gold cards are least preferred. Spending peaks are seen to align with festivals reflecting the influence of India's cultural calendar on spending. 
+These insights can help tailor credit card rewards to align with specific spending behaviors —like which categories customers spend on most or when they spend. For example:
+- For high spending on food, the company could offer cashback or points for restaurant transactions.
+- For frequent travel spending, they could provide airline miles or hotel rewards.
+- For seasonal spending spikes (e.g., during holidays) customers could be offered limited-time bonuses to encourage more spending.
 
+**Gaps for future reference**: Adding demographic data on age groups related to the spending would help to understand customer spending habits better. 
 
